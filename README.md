@@ -7,7 +7,7 @@ What the project does?
 Why the project is useful?
 - This will allow users to view their members' stats, communicate with members, make better managing decisions, and so on.
 
-How users can get started with the project
+How users can get started with the project?
 - Add the app and type /help
 
 Where users can get help with your project?
